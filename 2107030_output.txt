@@ -1,0 +1,113 @@
+Welcome to Automated Online Store
+0.Owner
+1.Buyer
+0
+0. Owner Registration
+  1. Owner Login
+0
+Enter Your Name
+Eshan
+Enter Your Password
+2107030
+Confirm Your Password
+2107030
+Registered Successfully.
+0. Owner
+1. Buyer
+0
+0. Owner Registration
+  1. Owner Login
+1
+Owner Login
+Enter Your Name:
+Eshan
+Enter Your Password:
+2107030
+logged in Successfully
+1.Add Product
+2.Delete Product
+1
+Do you want to store more products?(Yes/No)
+Yes
+State brand name: Pran
+State product name: Chips
+State the standard amount of this product: 10
+State quantity: 20
+Do you want to add more products of this brand?(Yes/No)
+Yes
+State product name: Bread
+State the standard amount of this product: 25
+State quantity: 10
+Do you want to add more products of this brand?(Yes/No)
+No
+1.Add Product
+2.Delete Product
+3.Exit
+1
+Do you want to store more products?(Yes/No)
+Yes
+State brand name: Olympics
+State product name: Biscuits
+State the standard amount of this product: 10
+State quantity: 16
+Do you want to add more products of this brand?(Yes/No)
+No
+1.Add Product
+2.Delete Product
+3.Exit
+2
+Do you want to delete products?(Yes/No)
+Yes
+Which brand of product do you want to delete?
+Pran
+State product name: 
+Bread
+State quantity: 
+2
+Do you want to delete more products from the same brand?(Yes/No)
+No
+1.Add Product
+2.Delete Product
+3.Exit
+3
+0. Owner
+1. Buyer
+1
+___Products available for purchase___
+
+
+Brand Name: Pran
+
+Product	Quantity	Amount
+Chips	10		20
+Bread	25		8
+
+Brand Name: Olympics
+
+Product		Quantity	Amount
+Biscuits	10		16
+State the brand of product that you want to buy: 
+Pran
+State the product name: 
+Chips
+State the quantity: 
+15
+Do you want to buy more products from this brand?(Yes/No)
+No
+Do you want to buy more?(Yes/No)
+No
+Enter Your Delivery Location
+Khulna
+Your Bill__________
+Pran       Chips       150
+
+Delivery Fee	50Enter Payment Method
+1.Bkash
+2.Nagad
+3.Credit Card
+4.Cash On Delivery
+2
+Enter Nagad phone Number
+01319632312
+Paid succesfully
+Thank You
